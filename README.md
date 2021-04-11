@@ -14,5 +14,5 @@
 <br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=avokadoen&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=avokadoen&theme=dracula&no-frame=true&margin-w=30" />
 </div>
