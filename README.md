@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=avokadoen&count_private=true&show_icons=true&theme=dracula" />
 
 - 🔭 I’m currently working on web scraping tools for The National Library of Norway
-- 📚 Currently doing a masters in informatics 
+- 📚 Also doing a masters in informatics 
 - ⚡ I love zig, go, rust, Graphics, SIMD and data oriented design!
 - 🎮 Video games are of course one of my main hobbies 
 - 💬 Feel free to send me a message!
