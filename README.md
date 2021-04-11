@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on web scraping tools for The National Library of Norway
 - 📚 Also doing a masters in informatics 
 - ⚡ I love zig, go, rust, Graphics, SIMD and data oriented design!
-- 🎮 Playing and making video games are my main hobbies 
+- 🎮 Playing and making video games is my main hobby
 - 💬 Feel free to send me a message!
 - 📫 ... or an email at <akselhallajs@gmail.com>
 
