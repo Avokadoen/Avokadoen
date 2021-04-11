@@ -9,7 +9,7 @@
 - ⚡ I love zig, go, rust, Graphics, SIMD and data oriented design!
 - 🎮 Video games are of course one of my main hobbies 
 - 💬 Feel free to send me a message!
-- 📫 ... or an email at <akselhallajs@gmailcom>
+- 📫 ... or an email at <akselhallajs@gmail.com>
 
 <br>
 
