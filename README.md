@@ -2,11 +2,15 @@
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
-- 🔭 I’m currently working on web scraping tools for The National Library of Norway
-- 📚 Also doing a masters in informatics 
-- ⚡ I love zig, go, rust, Graphics, SIMD and data oriented programming!
-- 🎮 Playing and making video games is my main hobby
-- 📫 Feel free to send me an email at <akselhallajs@gmail.com>
+<div align="center">
+   <div align="left">
+      <p>🔭 I’m currently working on web scraping tools for The National Library of Norway</p>
+      <p>📚 Also doing a masters in informatics</p> 
+      <p>⚡ I love zig, go, rust, Graphics, SIMD and data oriented programming!</p>
+      <p>🎮 Playing and making video games is my main hobby</p>
+      <p>📫 Feel free to send me an email at <akselhallajs@gmail.com></p>
+   </div>
+</div>
 
 <br>
 <div align="center"> 
