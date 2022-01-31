@@ -8,7 +8,6 @@
       <p>📚 Also doing a masters in informatics</p> 
       <p>⚡ I love zig, go, rust, Graphics, SIMD and data oriented programming!</p>
       <p>🎮 Playing and making video games is my main hobby</p>
-      <p>📫 Feel free to send me an email at <a href="mailto:akselhallajs@gmail.com">akselhallajs@gmail.com</a></p>
    </div>
 </div>
 
