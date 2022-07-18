@@ -4,8 +4,6 @@
 
 <div align="center">
    <div align="left">
-      <p>🔭 Working on web scraping tools for The National Library of Norway</p>
-      <p>📚 Also doing a masters in informatics</p> 
       <p>⚡ I love zig, go, rust, Graphics, SIMD and data oriented programming!</p>
       <p>🎮 Playing and making video games is my main hobby</p>
    </div>
