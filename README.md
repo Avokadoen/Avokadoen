@@ -4,7 +4,7 @@
 
 <div align="center">
    <div align="left">
-      <p>⚡ I love zig, go, rust, Graphics, SIMD and data oriented programming!</p>
+      <p>⚡ I love zig, c, go, rust, Graphics, SIMD and data oriented programming!</p>
       <p>🎮 Playing and making video games is my main hobby</p>
    </div>
 </div>
